@@ -1,0 +1,6 @@
+fastapi==0.79.0
+uvicorn==0.16.0
+pywebio==1.6.0
+cutecharts==1.2.0
+websockets
+pyecharts==1.9.1
